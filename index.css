@@ -1,0 +1,12 @@
+body
+{
+   color: white;
+    background-image: url('red-fish.jpg');
+    background-size: cover;
+}
+.container
+{
+    font-size: large;
+    color: white;
+    z-index:1;
+}
